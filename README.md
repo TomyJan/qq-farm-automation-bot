@@ -3,9 +3,8 @@
 - 基于 Node.js 的 QQ 农场自动化工具，支持多账号管理、Web 控制面板、实时日志与数据分析。
 - 更新优化日志详见update.log 感谢支持，喜欢的点一个star⭐吧！
 - 默认账号密码都是admin，端口3007，请部署登录后尽快修改密码！
-- 重构版V2.5.1完整更新日志详见：[更新日志](https://gitee.com/xlzcandy/qq-classic-farm-update-log/blob/master/README.md)
-### 请不要贩卖开源版本，免费项目，禁止倒卖！所有功能都是正常使用的，只需要更新一下core/src/config/config.js里面的版本号然后重启后端即可，一定要重启后端，docker部署的需要删除容器重新构建才生效。
-### 目前官方已经把三分钟风控给关了，所以开源版也正常偷菜了，八月会对开源版进行一次小更新，更新资源包到最新版本同时务农接口也更新到最新接口。内置一个yyb_go的开源应用宝协议，供微信玩家使用~
+- 重构版V2.5.4完整更新日志详见：[更新日志](https://gitee.com/xlzcandy/qq-classic-farm-update-log/blob/master/README.md)
+## 外面基于我的重构版很多，在GitHub上搜qq-farm即可，有很多实力强的作者也一直在跟进开源，不用看我的古老开源版了，去GitHub上寻觅其他大佬的开源版拉下来部署吧。
 ---
 ## 技术栈
 
